@@ -1,0 +1,27 @@
+{
+	  -webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+			box-sizing: border-box;
+}
+
+body {
+	background-color:#ADD8E6;
+    color: #000;
+    font-family: Arial, sans-serif; 
+    font-size: 100%; 
+    margin: auto; 
+	width: 80%;
+    padding: 5em;
+	border: .2em;
+	
+}
+
+img {
+	margin: auto;
+}
+
+
+h1, h2 {
+	text-align: center;
+	font-family: 'Brush Script MT', cursive, sans-serif; 
+}
